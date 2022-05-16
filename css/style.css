@@ -1,0 +1,324 @@
+.top-header {
+    height: 35px;
+}
+.top-p {
+    margin-top: 5px;
+}
+.login {
+    float: right;
+    margin-top: 5px;
+    background: #4a90aa;
+     border-radius: 5px;
+}
+.login a {
+    text-decoration: none;
+    font-size: 17px;
+     background: #090909; 
+    padding:4px 13px 5px 13px;
+    color: #fff;
+    border-radius: 7px
+}
+ .login a:hover {
+    text-decoration: none;
+    font-size: 17px;
+     background: #090909; 
+    padding:4px 13px 5px 13px;
+    color: #4A4A4A;
+    border-radius: 7px
+}
+.headersection {
+    height: 117px;
+    padding-top: 5px;
+    background-image: url(../image/headerb2.png);
+}
+
+
+.logo{
+	margin-left: 0px;
+
+}
+
+.logo img {
+    width: 100px;
+    height: 100px;
+    border-radius: 77px;
+    float: left;
+    margin-left: 0px;
+    margin-top: 3px;
+}
+
+.title {
+    margin-left: -41px;
+}
+.title h3 {
+    margin-top: 19px;
+    color: #fff;
+}
+.title p {
+    color: #fff;
+
+}
+.social-icon {
+    margin-top: 28px;
+    float: right;
+}
+.icon {
+    height: 50px;
+    width: 50px;
+    border-radius: 30px;
+    margin-left: 10px
+}
+.navsection {
+    background: #4a4a4a;
+    height: 47px;
+    color: #fff;
+    padding: 3px;
+}
+
+.nav {
+    width: 433px;
+}
+
+.nav li {
+
+}
+
+.nav li a {
+    color: white;
+    background: black;
+    margin-right: -41px;
+    text-decoration: none;
+    padding: 5px 17px 2px 12px;
+}
+
+.nav-link{
+	color: #fff;
+}
+.nav-link:hover{
+    color:#090909;
+}
+
+.search-bar {
+    margin-top: -40px;
+    padding-left: 863px;
+    padding-top: 1px;
+}
+
+.btn-outline-success {
+    color: black;
+    border-color: #fff;
+    width: 122px;
+}
+
+.btn-outline-success:hover {
+    color: #fff;
+    background: black;
+    border-color: #fff;
+    
+}
+
+
+.slidersection {
+    /* background: #b3b5bb; */
+    padding: 15px;
+    margin-top: 2px;
+    height: 540px;
+}
+.carousel {
+    margin-top: 22px;
+}
+
+.slider-content {
+
+}
+
+.slider-content h3 {
+    
+}
+
+.slider-content h3 a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    margin: -15px;
+}
+
+
+.sidebar {
+    background: #4a4a4a;
+    padding-left: 0px;
+    margin-right: -66px;
+}
+.sidebar ul li {
+    list-style: none;
+}
+.sidebar ul li a {
+    text-decoration: none;
+    color: #0c0c0c;
+}
+.sidebar ul li a:hover {
+    
+    color: #3F214E;
+}
+
+
+.mainsection {
+    margin-top: 25px;
+   
+}
+
+.mainsection a {
+    width: 258px;
+    height: 403px;
+}
+
+.mainsection a h3 {
+    font-size: 14px;
+    color: black;
+}
+
+.viewmore {
+
+}
+
+.viewmore a {
+    
+}
+
+.viewmore {
+    
+}
+
+.footersection {
+    height: 200px;
+    background: #4a4a4a;
+}
+
+.film-detail{
+
+}
+
+.film-detail h3{
+
+}
+.film-detail h3 a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    margin-left: -24px;
+}
+
+.col-md-3 p {
+
+}
+
+.col-md-3 {
+
+}
+
+.col-md-3 h3 {
+    font-size: 21px;
+    color: #dddd;
+    margin: 16px;
+    padding: 6px;
+}
+
+.pagination {
+    margin-left: 276px;
+    padding-bottom: 0px;
+    padding-top: 32px;
+}
+/*style for login page*/
+
+.slidersection-login {
+    
+    
+}
+.login-form {
+    padding: 61px;
+    /* background: #3c839d; */
+    margin-top: 50px;
+    margin-bottom: 61px;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    background-image: url(https://img.freepik.com/free-vector/geometric-luxury-pattern-set_52683-26119.jpg?size=626&ext=jpg&ga=GA1.1.144656954.1649500908);
+}
+
+/*style for top-imdb*/
+
+.slidersection-top-imdb {
+
+}
+
+.card {
+
+}
+.card-body a {
+    float: right;
+    margin-right: -267px;
+    margin-top: -84px;
+    text-decoration: none;
+    color: #0d0d0d;
+}
+
+.card-body h6 {
+    text-align: justify;
+    margin-left: 98px;
+}
+
+.card-body h6:hover {
+    text-align: justify;
+    margin-left: 98px;
+    color: #3798DA
+}
+
+.article {
+    height: 136px;
+}
+
+.article h3 {
+    margin-left: 161px;
+    margin-top: -149px;
+}
+
+.article h5 {
+    margin-left: 168px;
+}
+
+/*style for mainsection*/
+
+.mainsection-top {
+    margin-left: -102px;
+   
+    background: wheat;
+    height: 2000px;
+    padding-top: 56px;
+}
+
+.mainsection-top a {
+
+}
+.mainsection-top a h3 {
+    background: #4a4a4a;
+    margin-right: 684px;
+    margin-top: 3px;
+    margin-bottom: 8px;
+    padding: 5px;
+    font-size: 16px;
+    color: #fff;
+}
+
+.zoom {
+ 
+  transition: transform .5s; /* Animation */
+  
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(0.9); 
+}
+
+
+
